@@ -1,2 +1,5 @@
 let aaa = "HAHH";
-console.log(aaa)
+console.log(aaa);
+let b = "CESHI ";
+console.log(b)
+
